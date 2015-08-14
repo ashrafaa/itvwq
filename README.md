@@ -1,4 +1,4 @@
 # itvwq
-Programming questions from job interviews
+My solution to some of the programming questions received from job interviews
 
 
